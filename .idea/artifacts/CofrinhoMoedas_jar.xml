@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CofrinhoMoedas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CofrinhoMoedas_jar</output-path>
+    <root id="archive" name="CofrinhoMoedas.jar">
+      <element id="module-output" name="CofrinhoMoedas" />
+    </root>
+  </artifact>
+</component>
